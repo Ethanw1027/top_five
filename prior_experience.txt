@@ -1,0 +1,1 @@
+Neither of us have any prior experience with CI/CD development. Ethan is currently starting to work on managing the website for an anual fundraising competition between nonprofits and will gain much CI/CD experience from that project.
